@@ -1,0 +1,37 @@
+C:\Temporary Workspace\Encryption\Encryption\Encryption\bin\Debug\Encryption.exe.config
+C:\Temporary Workspace\Encryption\Encryption\Encryption\bin\Debug\Encryption.exe
+C:\Temporary Workspace\Encryption\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Temporary Workspace\Encryption\Encryption\Encryption\obj\Debug\Encryption.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Encryption\Encryption\Encryption\obj\Debug\Encryption.Forms.Encryption.frmShift.resources
+C:\Temporary Workspace\Encryption\Encryption\Encryption\obj\Debug\Encryption.frmStartup.resources
+C:\Temporary Workspace\Encryption\Encryption\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+C:\Temporary Workspace\Encryption\Encryption\Encryption\obj\Debug\Encryption.csproj.GenerateResource.cache
+C:\Temporary Workspace\Encryption\Encryption\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Encryption\Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Temporary Workspace\Encryption\Encryption\Encryption\obj\Debug\Encryption.pdb
+C:\Temporary Workspace\Encryption\Encryption\bin\Debug\Encryption.exe.config
+C:\Temporary Workspace\Encryption\Encryption\bin\Debug\Encryption.exe
+C:\Temporary Workspace\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Temporary Workspace\Encryption\Encryption\obj\Debug\Encryption.csproj.AssemblyReference.cache
+C:\Temporary Workspace\Encryption\Encryption\obj\Debug\Encryption.Forms.Encryption.frmSalt.resources
+C:\Temporary Workspace\Encryption\Encryption\obj\Debug\Encryption.Forms.Encryption.frmShift.resources
+C:\Temporary Workspace\Encryption\Encryption\obj\Debug\Encryption.frmStartup.resources
+C:\Temporary Workspace\Encryption\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+C:\Temporary Workspace\Encryption\Encryption\obj\Debug\Encryption.csproj.GenerateResource.cache
+C:\Temporary Workspace\Encryption\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Temporary Workspace\Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Temporary Workspace\Encryption\Encryption\obj\Debug\Encryption.pdb
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\bin\Debug\Encryption.exe
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\obj\Debug\Encryption.csproj.AssemblyReference.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\obj\Debug\Encryption.csproj.SuggestedBindingRedirects.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\obj\Debug\Encryption.Forms.Encryption.frmRSA.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\obj\Debug\Encryption.Forms.Encryption.frmSalt.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\obj\Debug\Encryption.Forms.Encryption.frmShift.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\obj\Debug\Encryption.frmStartup.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\obj\Debug\Encryption.csproj.GenerateResource.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Users\cadan\OneDrive - Truro and Penwith College\Jordan, Cadan Jay\Programming Portfolio\Other projects\Encryption\Encryption\Encryption\obj\Debug\Encryption.pdb
